@@ -1,0 +1,1 @@
+INSERT INTO planeten (name) VALUE("Zon"),("Mercurius"),("Venus"),("Aarde"),("Mars");
